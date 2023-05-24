@@ -13,7 +13,7 @@ The workflow consists of:
     + Gather information and draw conclusions from the available attributes. 
     + Combine both provided datasets to reach more accurate conclusions.
 - Power BI Dashboard (https://github.com/Arevalojj2020/PI_02/blob/main/Dashboard.pbix)
-    + Visualize the patterns, trends, and contributing factors found in the exploratory data analysis (EDA) using Power BI tools. 
+    + Visualize the patterns, trends, and contributing factors found in the Exploratory Data Analysis (EDA) using Power BI tools. 
     + Calculate 4 key performance indicators (KPIs) and evaluate the progress of global air safety from different perspectives.
 
 *The information provided in Spanish is for specific personal purposes.*
