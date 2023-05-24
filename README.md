@@ -8,7 +8,7 @@ safety.
 #### Datasets that will be used: https://github.com/Arevalojj2020/PI_02/tree/main/Datasets
 
 The workflow consists of: 
-- ETL perform and Exploratory data analysis (EDA) (https://github.com/Arevalojj2020/PI_02/blob/main/EDA.ipynb)
+- ETL perform and Exploratory Data Analysis (EDA) (https://github.com/Arevalojj2020/PI_02/blob/main/EDA.ipynb)
     + Clean and prepare the data. 
     + Gather information and draw conclusions from the available attributes. 
     + Combine both provided datasets to reach more accurate conclusions.
